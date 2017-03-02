@@ -1,0 +1,4 @@
+Domain,Ip,Envi,Userfield,Ip,Envi,Userfield,Ip,Envi,Userfield,Ip,Envi,Userfield,Ip,Envi,Userfield
+Home,10.197.0.1,Fileserver,user,10.197.0.3,1,user,10.197.0.3,2,user,10.197.0.3,Media,user,10.197.0.3,3,user
+Work,10.197.0.2,desktop,user,,,,,,,,,,,,
+Connection,10.197.0.3,Other,user,,,,,,,,,,,,
